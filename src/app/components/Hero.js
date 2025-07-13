@@ -25,7 +25,7 @@ const Hero = () => {
           </motion.div>
 
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            A passionate developer creating amazing web experiences with Next.js and Tailwind CSS.
+            A passionate developer creating amazing web experiences with Mern Stack Developer.
           </p>
 
           <div className="flex justify-center space-x-4">
